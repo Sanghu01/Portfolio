@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.image {
+  width: 75%;
+  height: 90%;
+  position: relative;
+  border-style: solid;
+  border-width: thick;
+  margin-left: 15%;
+  border-image: round;
+  box-shadow: 10px 10px 5px 12px grey;
+}
+.HEAD {
+  margin-top: 20%;
+  color: brown;
+}
+.HEADS {
+  margin-top: 20%;
+  border-radius: 3px;
+  color: orangered;
+}
+.array {
+  width: 50px;
+  height: 50px;
+}
+
+.fullbox {
+  background-color: whitesmoke;
+  margin-left: 5%;
+  box-shadow: 8px 8px 5px 10px gray;
+}
+.fullboxs {
+  margin-right: 5%;
+  background-color: whitesmoke;
+  box-shadow: 8px 8px 5px 10px gray;
+}
+.dev {
+  width: 40px;
+  height: 40px;
+}
+.last {
+  width: 100%;
+}
+.container{ position: relative;
+  
+  color:black;
+}
+.centered{
+position: absolute;
+top: 80%;
+left: 38%;
+}
+.btn{ margin-left: 47%;
+margin-top: 30px;}
+.dibba{ position: relative;
+  
+  color:black;}
+.submit{position: absolute;
+}
+  .containerss{ position: relative;
+    left: 5%;
+     margin-bottom: 10%;
+     width: 60%;
+     height: 40vh;
+    background-color: whitesmoke;
+  box-shadow: 8px 8px 5px 10px gray;
+  }
+.green{position: absolute;
+margin-left: 30px;
+  width: 28px;
+  height: 28px;
+  margin-top: 20px;
+  
+}
+
+.formhd{ position: absolute;
+  left: 7%;
+margin-top: 18px;
+}
+.h4{position: absolute;
+padding-top: 7%;
+padding-left: 15%;
+
+}
+.pp{
+
+  position: absolute;
+padding-left: 19%;
+padding-top: 13%;
+
+}
+
+.hh{position: absolute;
+  padding-left: 5%;
+padding-top: 22%;
+}
+.wht{position: absolute; 
+  width: 40px;
+  height: 40px;
+margin-top: 21%;
+left: 32%;
+}
+
+.fb{position: absolute; 
+  width: 40px;
+  height: 40px;
+margin-top: 21%;
+left: 38%;
+}
+
+.ins{position: absolute; 
+  width: 38px;
+  height: 38px;
+margin-top: 21%;
+left: 44%;
+}
